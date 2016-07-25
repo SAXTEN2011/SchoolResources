@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d9347e7-337c-4daa-b226-2cca3b2e0e0e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/Dont use that index file.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -245,7 +242,7 @@
       <workItem from="1469471149028" duration="34000" />
       <workItem from="1469471213986" duration="153000" />
       <workItem from="1469471377498" duration="66000" />
-      <workItem from="1469471486326" duration="67000" />
+      <workItem from="1469471486326" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed google slides card typo&#10;">
       <created>1469471265170</created>
@@ -268,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1469471404600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed google slides card typo&#10;">
+      <created>1469471556875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1469471556875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8586000" />
+    <option name="totallyTimeSpent" value="8626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
